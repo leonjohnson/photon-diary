@@ -1,5 +1,5 @@
 #  My Photon diary
-Following Chris Belcher's approach of keeping a diary, I'll be using this repo as a place where I document what I've been working and what I plan to work on next for the duration of my SquareCrypto grant. 
+Following [Chris Belcher's](https://gist.github.com/chris-belcher/ca5051285c6f8d38693fd127575be44d) approach of keeping a diary, I'll be using this repo as a place where I document what I've been working and what I plan to work on next for the duration of my SquareCrypto grant. 
 
 It may also be interesting to my collaborators and donors, and anyone who wants to follow
 how my projects are going.
