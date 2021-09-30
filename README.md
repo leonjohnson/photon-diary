@@ -16,3 +16,12 @@ It may also be interesting to my collaborators and donors, and anyone who wants 
 - Finalised the design of the photon demo app in Figma
 - Reached out to a few iOS app developers to see if they’re interested in using Photon in their applications
 - Progress was slower than expected this month due to a number of personal issues
+
+## Aug 2021
+- I begun development of Quantum, an iOS bitcoin wallet with Photon integration. The wallets purpose is twofold, firstly for me to validate that the library works in a practical environment (beyond functional testing). Secondly, to provide an open-source example to developers on how to integrate Photon into their applications.
+
+## Sept 2021
+- Continunig development of the Quantum app. I'm aiming for an October release.
+- Reached out to Muun, Wallet of Satoshi, BRD, Coinbase Wallet to see if there's appetite to integrate Photon in their wallets. I had conversations with half of them and learnt more about existing private key management systems that existing wallets have.
+- Had further conversations with developers interested in Photon.
+- I built a swift package for Photon. This provides developers with an easy way to integrate Photon into their project.
